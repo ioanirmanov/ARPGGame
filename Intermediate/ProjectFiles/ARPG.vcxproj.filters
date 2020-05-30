@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ARPG.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{1C609DD3-2D51-47C4-8A8A-BBFFF0CAC4F5}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ARPG.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ARPGEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{795D2E48-B20C-432E-9B2A-0750B708236E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ARPG">
+			<UniqueIdentifier>{A56DB924-42C0-4A29-BA26-FA8944C8C0A8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ARPG\ARPG.Build.cs">
+			<Filter>Source\ARPG</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ARPG\ARPG.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\ARPG.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\ARPGGameModeBase.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\ARPGGameModeBase.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\CharacterPawn.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\CharacterPawn.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\DialogueBox.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\DialogueBox.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\DialogueObject.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\DialogueObject.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\DialogueSystem.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\DialogueSystem.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\DynamicSprite.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\DynamicSprite.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\EventSystem.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\EventSystem.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\GameManagment.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\GameManagment.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\GenMapFromText.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\GenMapFromText.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\GridLIne.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\GridLIne.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\IObject.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\IObject.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\LevelEditGameMode.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\LevelEditGameMode.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\LevelEditHUD.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\LevelEditHUD.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\LevelEditPawn.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\LevelEditPawn.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\LevelEditWidget.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\LevelEditWidget.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\MapEditor.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\MapEditor.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\MapEditorTile.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\MapEditorTile.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\MapObject.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\MapObject.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\MapTile.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\MapTile.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\MyPaperSprite.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\MyPaperSprite.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\NPCPawn.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\NPCPawn.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\PlayerPawn.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\PlayerPawn.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\SLevelEditModeWidget.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\SLevelEditModeWidget.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\SLevelEditProperties.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\SLevelEditProperties.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\TileSetWidget.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\TileSetWidget.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ARPG\TitledDialogueBox.cpp">
+			<Filter>Source\ARPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ARPG\TitledDialogueBox.h">
+			<Filter>Source\ARPG</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

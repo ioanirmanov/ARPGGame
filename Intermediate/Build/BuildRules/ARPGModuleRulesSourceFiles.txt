@@ -1,0 +1,3 @@
+C:\Users\Ioan\Google Drive\Project Files\ARPG\Source\ARPG\ARPG.Build.cs
+C:\Users\Ioan\Google Drive\Project Files\ARPG\Source\ARPG.Target.cs
+C:\Users\Ioan\Google Drive\Project Files\ARPG\Source\ARPGEditor.Target.cs

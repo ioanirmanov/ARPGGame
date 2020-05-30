@@ -1,0 +1,10 @@
+﻿  Performing full C++ include scan (building a new target)
+  Performing 4 actions (3 in parallel)
+  [2/4] Resource PCLaunch.rc
+  EventSystem.cpp
+  [3/4] Link UE4Editor-ARPG-Win64-DebugGame.dll
+  [4/4] Link UE4Editor-ARPG-Win64-DebugGame.lib
+     Creating library C:\Users\Ioan\Google Drive\Project Files\ARPG\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-ARPG-Win64-DebugGame.lib and object C:\Users\Ioan\Google Drive\Project Files\ARPG\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-ARPG-Win64-DebugGame.exp
+     Creating library C:\Users\Ioan\Google Drive\Project Files\ARPG\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-ARPG-Win64-DebugGame.suppressed.lib and object C:\Users\Ioan\Google Drive\Project Files\ARPG\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-ARPG-Win64-DebugGame.suppressed.exp
+  Deploying ARPGEditor Win64 DebugGame...
+  Total build time: 7.98 seconds (Local executor: 4.56 seconds)

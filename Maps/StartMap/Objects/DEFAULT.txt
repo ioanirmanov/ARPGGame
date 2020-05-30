@@ -1,0 +1,10 @@
+<DIALOGUEOBJECT> 1
+FREEZE
+SETTITLE
+Object
+NEWLINE
+This is an object
+NEWLINE
+This text was loaded from the file
+UNFREEZE
+</DIALOGUEOBJECT>

@@ -1,0 +1,43 @@
+<GridSize>
+4 4
+</GridSize>
+<TileSize>
+16 16
+</TileSize>
+<TileSet>
+EmptyTile
+Grass
+StoneWall
+</TileSet>
+<ObjectTileSet>
+EmptyTile
+Barrel
+</ObjectTileSet>
+<Tiles>
+2 2 2 2 
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+</Tiles>
+<Objects>
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+1 1 0 1 
+</Objects>
+<ObjectLayers>
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+</ObjectLayers>
+<Blocked>
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+1 1 0 1 
+</Blocked>
+<Triggers>
+2 3
+DOSTUff
+</Triggers>

@@ -1,0 +1,20 @@
+<DIALOGUEOBJECT> 1
+FREEZE
+SETTITLE
+NPC
+NEWLINE
+I am an NPC
+NEWLINE
+This dialogue was loaded from the file
+UNFREEZE
+</DIALOGUEOBJECT>
+<DIALOGUEOBJECT> 2
+FREEZE
+SETTITLE
+NPC
+NEWLINE
+I am an NPC
+NEWLINE
+This dialogue was loaded from the file
+UNFREEZE
+</DIALOGUEOBJECT>

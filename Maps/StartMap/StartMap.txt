@@ -1,0 +1,75 @@
+<GridSize>
+8 8
+</GridSize>
+<TileSize>
+16 16
+</TileSize>
+<TileSet>
+EmptyTile
+Grass
+VertPath
+</TileSet>
+<ObjectTileSet>
+EmptyTile
+RoofLeft1
+RoofLeft2
+RoofMid
+RoofRight1
+RoofRight2
+StoneWall
+DoorOpen
+Chest
+</ObjectTileSet>
+<Tiles>
+1 2 1 1 1 1 1 1 
+1 2 1 1 1 1 1 1 
+1 2 1 1 1 1 1 1 
+1 2 1 1 1 1 1 1 
+1 2 1 1 1 1 1 1 
+1 2 1 1 1 1 1 1 
+1 2 1 1 1 1 1 1 
+1 2 1 1 1 1 1 1 
+</Tiles>
+<Objects>
+0 0 0 0 0 0 0 0 
+0 0 1 2 3 4 5 0 
+0 0 6 6 6 6 6 0 
+0 0 6 6 7 6 6 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 8 0 0 0 
+0 0 0 0 0 0 0 0 
+</Objects>
+<ObjectLayers>
+0 0 0 0 0 0 0 0 
+0 0 1 1 1 1 1 0 
+0 0 1 1 1 1 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+</ObjectLayers>
+<Blocked>
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 1 1 1 1 1 0 
+0 0 1 1 0 1 1 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 
+</Blocked>
+<Triggers>
+4 3
+LOADLEVEL HOUSE 2 3
+</Triggers>
+<NPCS>
+DEFAULT
+1 1
+DEFAULT
+</NPCS>
+<INTERACTABLEOBJECTS>
+4 6
+DEFAULT
+</INTERACTABLEOBJECTS>
